@@ -3,7 +3,7 @@ import '../../App.css';
 
 const Home = () => {
   return (
-    <>
+    <>    
     <section className="text-gray-400 bg-gray-900 body-font font-Raleway pt-16 border-b border-b-gray-800 pb-[110px]">
       <div className="container px-5 py-24 mx-auto">
 
